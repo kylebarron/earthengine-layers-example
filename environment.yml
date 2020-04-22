@@ -1,0 +1,10 @@
+name: earthengine-layers-pydeck-example
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - notebook
+  - pydeck
+  - earthengine-api
+  - requests
