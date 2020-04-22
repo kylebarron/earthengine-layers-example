@@ -1,0 +1,6 @@
+python
+jupyter
+notebook
+pydeck
+earthengine-api
+requests
